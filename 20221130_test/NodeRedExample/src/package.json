@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "start": "node $NODE_OPTIONS node_modules/node-red/red.js $FLOWS"
+    }
+}
